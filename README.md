@@ -1,2 +1,2 @@
 # Certificates
- Certificates for Data Analytics.
+ I hold many certificates in Power BI for Data Analysis, showcasing my expertise in using this powerful business intelligence tool. With Power BI, I can connect to diverse data sources, create interactive dashboards, and visualize data effectively. This certificate validates my ability to transform raw data into actionable insights, empowering stakeholders to make informed decisions.
